@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/milestone-practice/static/css/main.27480e0b.css",
+    "main.js": "/milestone-practice/static/js/main.ecf774de.js",
+    "static/js/787.3397b452.chunk.js": "/milestone-practice/static/js/787.3397b452.chunk.js",
+    "index.html": "/milestone-practice/index.html",
+    "main.27480e0b.css.map": "/milestone-practice/static/css/main.27480e0b.css.map",
+    "main.ecf774de.js.map": "/milestone-practice/static/js/main.ecf774de.js.map",
+    "787.3397b452.chunk.js.map": "/milestone-practice/static/js/787.3397b452.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27480e0b.css",
+    "static/js/main.ecf774de.js"
+  ]
+}
